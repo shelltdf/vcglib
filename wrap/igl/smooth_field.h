@@ -25,7 +25,7 @@
 #define SMOOTHER_FIELD_H
 
 //eigen stuff
-#include <eigenlib/Eigen/Sparse>
+#include <eigen3/Eigen/Sparse>
 
 //vcg stuff
 #include <vcg/complex/algorithms/update/color.h>

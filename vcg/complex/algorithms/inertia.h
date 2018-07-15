@@ -24,8 +24,8 @@
 #define _VCG_INERTIA_
 
 
-#include <eigenlib/Eigen/Core>
-#include <eigenlib/Eigen/Eigenvalues>
+#include <eigen3/Eigen/Core>
+#include <eigen3/Eigen/Eigenvalues>
 #include <vcg/complex/algorithms/update/normal.h>
 
 namespace vcg

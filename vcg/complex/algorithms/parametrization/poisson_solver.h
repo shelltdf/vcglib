@@ -24,7 +24,7 @@
 #ifndef VCG_POISSON_SOLVER
 #define VCG_POISSON_SOLVER
 
-#include <eigenlib/Eigen/Sparse>
+#include <eigen3/Eigen/Sparse>
 
 #include <vcg/complex/algorithms/clean.h>
 #include <vcg/complex/algorithms/update/bounding.h>

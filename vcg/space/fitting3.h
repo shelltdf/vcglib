@@ -29,8 +29,8 @@
 #include <vcg/math/matrix44.h>
 #include <vcg/math/matrix33.h>
 
-#include <eigenlib/Eigen/Core>
-#include <eigenlib/Eigen/Eigenvalues>
+#include <eigen3/Eigen/Core>
+#include <eigen3/Eigen/Eigenvalues>
 
 namespace vcg {
 
